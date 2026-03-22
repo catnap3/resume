@@ -15,7 +15,7 @@ OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLL
 論文ジャーナルのAPIを複数組み合わせて論文情報を取得する社内ツールのバックエンド開発に従事。
 
 ### Dec 2025 -Jan 2026
-**[Nehan株式会社](https://nehan6.com/) - AIエンジニア**
+**[Nehan株式会社](https://nehan6.com/) - AIエンジニア** 使用技術：Bash / Shell Script, AWS(Bedrock, S3 Vectors)
 
 [AI入札情報サービスLabid](https://labid.jp/) に自治体の予算書ドキュメントをインプットしたRAG機能の設計開発を担当。Amazon S3 Vectors に保存したPDFデータを Bedrock でインデックス化する際に、一部予算書のデータが大容量のため Bedrock の仕様に違反する問題に対応。ソースファイルが分割されているとユーザの混乱を招き体験の質を損なったしまうため、Bedrock にドキュメントを渡す際にファイル分割はしつつも分割前のファイルパスをメタデータとしてもたせるアプローチを行うことで Bedrock 仕様への準拠とユーザー体験の質を両立。
 
