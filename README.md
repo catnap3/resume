@@ -14,7 +14,7 @@ OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLL
 
 プロジェクト1: APIを利用して論文ジャーナルの情報を取得する社内ツールのバックエンド開発に従事
 
-プロジェクト2: GCP上でのRAGシステム開発および顧客説明を担当
+プロジェクト2: GCP上でのRAGシステム開発およびアーキテクチャ図の制作・顧客説明を担当
 
 ### Dec 2025 -Jan 2026
 **[Nehan株式会社](https://nehan6.com/) - AIエンジニア** 使用技術：Bash / Shell Script, AWS(Bedrock, S3 Vectors)
