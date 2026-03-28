@@ -1,6 +1,6 @@
 # 栗林雷旗
 
-[Email](snq7amf522dvzpjbwshb@gmail.com) | [X](https://x.com/tempura_ebiebi) | [GitHub](https://github.com/catnap3) | [Linkedin](https://www.linkedin.com/in/raiki-k/)
+[Email](snq7amf522dvzpjbwshb@gmail.com) | [X](https://x.com/tempura_ebiebi) | [Wantedly](https://www.wantedly.com/id/rai3) | [GitHub](https://github.com/catnap3) | [Linkedin](https://www.linkedin.com/in/raiki-k/)
 
 ## 職歴
 
