@@ -1,6 +1,10 @@
-# 栗林雷旗
-
-[Email](snq7amf522dvzpjbwshb@gmail.com) | [Linkedin](https://www.linkedin.com/in/raiki-k/)
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+  <div>
+    <h1 style="font-size: 22px; border-bottom: 2px solid #333; padding-bottom: 6px; margin: 0 0 8px 0;">栗林雷旗</h1>
+    <p style="margin: 0;"><a href="snq7amf522dvzpjbwshb@gmail.com" style="color: #0066cc; text-decoration: none;">Email</a> | <a href="https://www.linkedin.com/in/raiki-k/" style="color: #0066cc; text-decoration: none;">Linkedin</a></p>
+  </div>
+  <img src="profile_photo.png" width="150" style="border-radius: 8px;">
+</div>
 
 ## 職歴
 
@@ -34,4 +38,3 @@ OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLL
 **ユーザーロイヤルティ向上を目的とした「楽天市場上の検索ワード分類プロジェクト」を設立。**
 学術論文 (NLP、トピックモデリング関連) から技術情報をインプットし、解釈性のある分類モデルの構築に向けPyTorchなどのフレームワークを用いて数理的理論の実装。技術ソースからビジネスサイドが求める情報を抽出して伝える技術とビジネスの橋渡し役としての振る舞いを心がける。自然言語処理のアルゴリズムを応用した検索キーワード分類機能の開発によるユーザーニーズの深掘りを実現。
 
-<img src="profile_photo.png" width="150">
