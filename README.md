@@ -1,20 +1,22 @@
 # 栗林雷旗
 
-[Email](snq7amf522dvzpjbwshb@gmail.com) | [X](https://x.com/tempura_ebiebi) | [Wantedly](https://www.wantedly.com/id/rai3) | [GitHub](https://github.com/catnap3) | [Linkedin](https://www.linkedin.com/in/raiki-k/)
+[Email](snq7amf522dvzpjbwshb@gmail.com) | [Linkedin](https://www.linkedin.com/in/raiki-k/)
 
 ## 職歴
 
 ### Oct 2025 - Present
+**合同会社TinyInventor - 代表社員**  
+
+プロジェクト1: Forward Deployed Engineerとして大手化粧品会社におけるマーケティング業務のBPaaSに参画。クライアントがメルマガコンテンツの制作を自動化してより多くの施策を行いたいという課題に対し、プロダクトを顧客のコンテンツ要件に合わせて実装。顧客説明においては目指すべきコンテンツの品質に関する認識のすり合わせ、および現状とのギャップの整理を実施し、クライアントに納得感をもってプロジェクトに協力してもらえるよう対応。  
+使用技術: Typescript, Mastra
+
+プロジェクト2: AIエンジニアとして医療掲示板サービスの開発をリード。現行サービスではユーザーが入力したキーワードに部分一致する投稿しか検索できなかったが、AIによる意味検索機能を開発することで検索品質を向上。GCP上でのRAGシステム開発およびアーキテクチャ図の制作・顧客説明を担当。UI/UXの改善についてクライアントと相談・開発を実施。  
+使用技術：  Python, Next.js, GCP(Vertex AI, pgvector), PostgreSQL
+
+### Oct 2025 - Apr 2026
 **[株式会社ジール](https://www.zdh.co.jp/) - AIエンジニア** 使用技術：Python, Langchain, Azure OpenAI API
 
 OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLLMからの回答を受け取った際に情報の根拠が明記されておらず正しい情報か確認できないため、実際の業務に活用できないという課題があった。そこでソースとなるドキュメントをページごとに分割してページ番号をメタデータとして使用するするアプローチをとり、**LLMのアウトプットをユーザーがレビューできる仕組みを実現**。
-
-### Oct 2025 - Present
-**[株式会社Techtical](https://www.techtical.co.jp/) - AIエンジニア** 使用技術：Python, Next.js, GCP(Vertex AI, pgvector), PostgreSQL
-
-プロジェクト1: APIを利用して論文ジャーナルの情報を取得する社内ツールのバックエンド開発に従事
-
-プロジェクト2: GCP上でのRAGシステム開発およびアーキテクチャ図の制作・顧客説明を担当
 
 ### Dec 2025 -Jan 2026
 **[Nehan株式会社](https://nehan6.com/) - AIエンジニア** 使用技術：Bash / Shell Script, AWS(Bedrock, S3 Vectors)
@@ -31,6 +33,3 @@ OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLL
 
 ### April 2021 - March 2023
 **京都大学 - 工学研究科電気工学専攻修士課程中途退学**
-
-### April 2017 - March 2021
-**大阪大学 - 工学部電子情報工学科卒業**
