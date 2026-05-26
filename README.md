@@ -7,6 +7,8 @@
 ### Oct 2025 - Present
 **合同会社TinyInventor - 代表社員**  
 
+取引先企業:  [Techtical](https://www.techtical.co.jp/), [アクティブコア](https://www.activecore.co.jp/)
+
 プロジェクト1: Forward Deployed Engineerとして大手化粧品会社におけるマーケティング業務のBPaaSに参画。クライアントがメルマガコンテンツの制作を自動化してより多くの施策を行いたいという課題に対し、プロダクトを顧客のコンテンツ要件に合わせて実装。顧客説明においては目指すべきコンテンツの品質に関する認識のすり合わせ、および現状とのギャップの整理を実施し、クライアントに納得感をもってプロジェクトに協力してもらえるよう対応。  
 使用技術: Typescript, Mastra
 
