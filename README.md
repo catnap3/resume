@@ -22,15 +22,21 @@
 プロジェクト2: AIエンジニアとして医療掲示板サービスの開発をリード。現行サービスではユーザーが入力したキーワードに部分一致する投稿しか検索できなかったが、AIによる意味検索機能を開発することで検索品質を向上。GCP上でのRAGシステム開発およびアーキテクチャ図の制作・顧客説明を担当。UI/UXの改善についてクライアントと相談・開発を実施。  
 使用技術：  Python, Next.js, GCP(Vertex AI, pgvector), PostgreSQL
 
+![carenext](carenext.png) ![activecore](activecore.png)
+
 ### Oct 2025 - Apr 2026
 **[株式会社ジール](https://www.zdh.co.jp/) - AIエンジニア** 使用技術：Python, Langchain, Azure OpenAI API
 
 OpenAIのAPIを組み込んだRAG機能の技術検証を担当。ユーザがLLMからの回答を受け取った際に情報の根拠が明記されておらず正しい情報か確認できないため、実際の業務に活用できないという課題があった。そこでソースとなるドキュメントをページごとに分割してページ番号をメタデータとして使用するアプローチをとり、**LLMのアウトプットをユーザーがレビューできる仕組みを実現**。
 
+![ジール](zdh.png)
+
 ### Dec 2025 -Jan 2026
 **[Nehan株式会社](https://nehan6.com/) - AIエンジニア** 使用技術：Bash / Shell Script, AWS(Bedrock, S3 Vectors)
 
 [AI入札情報サービスLabid](https://labid.jp/) に自治体の予算書ドキュメントをインプットしたRAG機能の設計開発を担当。Amazon S3 Vectors に保存したPDFデータを Bedrock でインデックス化する際に、一部予算書のデータが大容量のため Bedrock の仕様に違反する問題に対応。ソースファイルが分割されているとユーザの混乱を招き体験の質を損なったしまうため、Bedrock にドキュメントを渡す際にファイル分割はしつつも分割前のファイルパスをメタデータとしてもたせるアプローチを行うことで Bedrock 仕様への準拠とユーザー体験の質を両立。
+
+![Nehan](nehan.png)
 
 ### July 2024 - Sep 2025
 **楽天グループ株式会社 - データサイエンティスト** 使用技術：Python, Pandas, BigQuery
