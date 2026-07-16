@@ -14,7 +14,7 @@
 **About**
 TinyInventor LLC is an AI engineering company that helps businesses overcome the challenge of "wanting to use AI but not knowing where to start." We deliver custom implementations tailored to each client's workflows — including RAG-powered semantic search services that enhance internal communication. Our engineers bring experience from both major IT enterprises and startups, supporting clients from both technical and business perspectives.
 
-Clients: [Techtical](https://www.techtical.co.jp/), [ActiveCore](https://www.activecore.co.jp/)
+Clients: [Techtical](https://www.techtical.co.jp/)
 
 **Project 1** Joined as a Forward Deployed Engineer in a BPaaS initiative for marketing operations at a major cosmetics company. Addressed the client's need to automate newsletter content creation by implementing the product to meet their specific content requirements. Facilitated alignment on target content quality in client-facing sessions, clearly articulating the gap between current and desired states to build client confidence and secure smooth project collaboration.  
 Tech: Typescript, Mastra
