@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+interview_prep_gva.md
+
+# 個人情報を含む文書は private/ (別リポジトリ・非公開) で管理する
+private/
+*.pdf
+栗林_*
+転職ドラフト_*
+返信下書き_*
